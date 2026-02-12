@@ -177,11 +177,8 @@ kubectl get pods -w
 
 ## 👨‍💻 Autor
 
-**Jaider Reyes** – DevOps & Cloud Enthusiast  
-GitHub: [@jaiderreyes](https://github.com/jaiderreyes)
+**Roberto Fuentes** – DevOps & Cloud Enthusiast  
+GitHub: [@RobertoFuentes98](https://github.com/RobertoFuentes98)
 
 ---
 
-## ⚖️ Licencia
-
-Este proyecto está bajo la licencia MIT.
