@@ -172,7 +172,13 @@ kubectl delete svc nginx
 
 ```bash
 kubectl get pods -w
+
+
 ```
+# Evidencia de Kubernetes Dashboard 
+- <img width="1920" height="844" alt="image" src="https://github.com/user-attachments/assets/cadde978-322d-4255-a18c-0f7ed94fcb3c" />
+- <img width="1659" height="656" alt="image" src="https://github.com/user-attachments/assets/8aa7faa2-3e11-427b-b652-aa785121376e" />
+- <img width="1657" height="352" alt="image" src="https://github.com/user-attachments/assets/11123d79-09ee-48ee-8531-dd32916f41f6" />
 
 
 ## 👨‍💻 Autor
